@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Computer Engineering student at Foundation University School of Science and Technology
 <!--
 **SaaimFarrukh/SaaimFarrukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
